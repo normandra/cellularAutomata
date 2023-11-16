@@ -1,5 +1,7 @@
 # Tree Automata Godot 4.1 practice
 
+![demo](demo_1.gif)
+
 this project holds a simple automata which depicts a tree capable of growing, blooming and spreading its seed
 
 the project starts with plain dirt with some seeds spread over, water randomly drops (rain) and can make the dirt wet.
